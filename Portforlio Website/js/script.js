@@ -15,7 +15,7 @@ function loadProjects() {
   const divElement = document.querySelector('.section');
   const paraElement= divElement.querySelector('p');
   paraElement.style.textAlign='center';
-  paraElement.textContent = "Welcome to my Portfolio Website. I am learning full stack development program via Great Learning platform";
+  paraElement.textContent = "Welcome to my Portfolio Website that demonstrated DOM Manipulation in Javascript";
 }
 
 // This function should return the projectId of the new project
